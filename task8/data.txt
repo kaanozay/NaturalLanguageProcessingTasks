@@ -1,0 +1,13 @@
+Delicious! sugared red fruits and sweet with a morish, cinnamon, aromatic depth.
+I am not a whisky expert but i really love the taste. The experience i had i would describe as very 
+This is a terrible Yamazaki. Very young, unsherried, no finish. The Yamazaki 12 is slightly better
+First time and I like it - fresh but not thin and a sweet depth to it. I know I like a whisky when I
+I can’t believe all these commenters who are fawning over this particular reserve. Are they for real
+My friend brought bottle of this from Japan in 2014-2015 and wes so good. And I haven’t tried anyth
+In the 2020-21 Fall semester, there will be no exams within the scope of the NLP course, instead, Python applied homeworks will be given. The student is expected to complete 10 tasks by selecting from the following Python coding tasks, and for each one, to prepare a YouTube video and explain these tasks in applicational.
+
+
+Video presentation for each task should not exceed 5 minutes. In all of the video presentations, the student is required to make a video recording so that the identification can be made. In the video recording, the student should first introduce himself, then quickly tell the title of the project, if any, the dataset details, and the libraries he/she uses. He should then run the application and comment on the results in a few sentences.
+Task 8. First of all, English word vectors calculated by any method (e.g. Word2Vec, GloVe or fastText) should be obtained from the internet. We must also have an English corpus. Using any Semantic Similarity method that the student chooses or creates, the most similar sentence in the corpus should be found for a sentence given externally.
+Students can ask questions about homework just by attending live classes. Those who cannot attend the lesson because their lessons conflict, can write their message to the channel about the lesson via MS Teams. Emails about assignments sent outside of MS Teams will not be answered.
+Apart from the headings above, students preparing on a specific NLP problem (Presentation + Python) will be deemed to have done 2 tasks. However, the title of the project you will choose for the presentation task is first of all, you should ask "Assoc.Prof.Dr. Umut Orhan" via MS Teams. A student can only take one presentation task once. It is highly recommended that those wishing to do a master's degree in NLP take presentation work.
